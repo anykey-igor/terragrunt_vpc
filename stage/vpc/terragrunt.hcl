@@ -5,4 +5,3 @@ include {
 terraform {
   source = "git@github.com:anykey-igor/terraform_aws_vpc.git//."
 }
-
